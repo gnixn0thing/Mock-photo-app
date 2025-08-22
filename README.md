@@ -1,1 +1,1 @@
-# ock-photo-app
+# Mock-photo-app
